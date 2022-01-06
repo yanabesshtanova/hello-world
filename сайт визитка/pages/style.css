@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400&display=swap');
+h1,h2 { font-family: open sans;}
+.img-wrapper{
+	background-color: pink;
+    padding: 30px;
+    text-align: center;
+
+}
+.title {
+    color: rgb(161, 56, 56);
+    text-align: center;
+}
+ .header{
+	padding: 30px;
+    border-bottom: 4px dotted gray;
+    text-align: center; 
+ }
+ a:hover {
+  background: pink;
+}
+.subtitle{
+	color:purple;
+	margin: 20px;
+	
+}
+.body{
+	background-color: rgb(235, 210, 214);
+}
+.footer{
+	border-top: 4px dotted gray;
+	text-align: center; 
+}
